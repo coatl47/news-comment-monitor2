@@ -1,0 +1,21 @@
+{
+  "dashboard_title": "네이버 뉴스 댓글 여론 모니터링",
+  "close_after_days": 20,
+  "articles": [
+    {
+      "id": "pension_autopay_20260829",
+      "tab_label": "국민연금 자동 지급",
+      "url": "https://n.news.naver.com/mnews/article/001/0016277622?sid=102",
+      "categories": [
+        "기초연금 형평성",
+        "외국인 연금 수급",
+        "건보료·세금 부담",
+        "지급 방식(자동 지급·현금 배달)",
+        "정부·정치 비판"
+      ],
+      "prompt_file": "prompt/prompt_base.txt",
+      "enabled": true,
+      "collect_enabled": true
+    }
+  ]
+}
